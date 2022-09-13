@@ -1,0 +1,17 @@
+{
+  "name": "Clavister Sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts",
+    "build": "tsc",
+    "watch": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1"
+  }
+}
